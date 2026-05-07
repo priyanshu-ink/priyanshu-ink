@@ -45,18 +45,6 @@ Beyond development, I explore ideas around purpose, direction, and meaningful wo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-ink&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanshu's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ink&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-ink/priyanshu-ink/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
