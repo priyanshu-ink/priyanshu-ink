@@ -49,7 +49,7 @@ Beyond development, I explore ideas around purpose, direction, and meaningful wo
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-ink/priyanshu-ink/output/github-contribution-grid-snake.svg.?v=1"
+  <img src="https://raw.githubusercontent.com/priyanshu-ink/priyanshu-ink/output/github-contribution-grid-snake.svg"
     alt="Snake Animation" />
 </p>
 
